@@ -1,1 +1,2 @@
 load_data.py linguist-vendored
+*.sql linguist-detectable=true
